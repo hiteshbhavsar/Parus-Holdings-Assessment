@@ -64,5 +64,5 @@ sampler plate,$5.80
     <li>By directly mentioning the file in the same directory to read from. <i>For Example</i> <code>python project.py input.json</code></li>
     <li> By directly mentioning the file path to read from <i>For Example</i> <code>python project.py "F:\Python Projects\Parus Holdings\input.json"</code></li>
   </ol>
-   <li>If its getting difficult to understand the steps mentioned above then kindly download the file from the [link](../master/Steps to follow to run the code.docx)</li>
+   <li>If its getting difficult to understand the steps mentioned above then kindly download the file from the link(https://github.com/hiteshbhavsar/Parus-Holdings-Assessment/blob/main/Steps%20to%20follow%20to%20run%20the%20code.docx)</li>
 </ol>
