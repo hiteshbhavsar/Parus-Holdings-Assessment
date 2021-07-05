@@ -2,7 +2,7 @@
 This repository contains code for Parus Holdings Assessment
 <br>
 ## Description of the problem statement
-The problem given was that given the list of all items and the given target price.
+The problem given was that given the list of all items and the given target price. I need to find all the possible combinations of dishes. The input for the data would be taken using a json file. To learn more about the requirements click the link given [here](https://docs.google.com/document/d/1-h-mZy5jjyC4Hu2vIaQHnW1ptOygl7ZhC0K8pWIPU7o/edit#heading=h.g4a4qafh8shy)
 <br>
 ## Input format to be followed
 Sample input data
