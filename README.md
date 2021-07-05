@@ -4,4 +4,5 @@ This repository contains code for Parus Holdings Assessment
 ## Description of the problem statement
 The problem given was that given the list of all items and the given target price.
 <br>
-## Steps for execution of program 
+## Steps for execution of program through command line parameters using command prompt
+
