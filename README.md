@@ -10,6 +10,6 @@ The problem given was that given the list of all items and the given target pric
   <li>Open Command Prompt and change the directory to the current directory using <code> cd current_directory </code> command</li>
   <ol>
     <li>Here current_directory means the place where the code is saved</li>
-    <li> *Example code* <code>cd "F:\Python Projects\Parus Holdings"</code>
+    <li> **Example code** <code>cd "F:\Python Projects\Parus Holdings"</code>
   </ol>
 </ol>
