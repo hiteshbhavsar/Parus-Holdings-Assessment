@@ -12,4 +12,5 @@ The problem given was that given the list of all items and the given target pric
     <li>Here current_directory means the place where the code is saved</li>
     <li> <i>Example code</i> <code>cd "F:\Python Projects\Parus Holdings"</code>
   </ol>
+  <li>Run the command <code>python project.py <b>file_name</b></code></li>
 </ol>
