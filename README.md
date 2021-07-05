@@ -49,6 +49,7 @@ sampler plate,$5.80
 }
 
 </code>
+<br>
 ## Steps for execution of program through command line parameters using command prompt
 <ol>
   <li>Unzip the folder of code (Provided you have downloaded the code in zip format)</li>
