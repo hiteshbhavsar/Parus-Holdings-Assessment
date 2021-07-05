@@ -4,6 +4,51 @@ This repository contains code for Parus Holdings Assessment
 ## Description of the problem statement
 The problem given was that given the list of all items and the given target price.
 <br>
+## Input format to be followed
+Sample input data
+<blockquote>
+Target price, $15.05
+
+mixed fruit,$2.15
+french fries,$2.75
+side salad,$3.35
+hot wings,$3.55
+mozzarella sticks,$4.20
+sampler plate,$5.80
+
+</blockquote>
+<code>
+{
+	"Target Price":15.05,
+	"items":[
+		{
+			"Name":"Mixed Fruit",
+			"Price":2.15
+		},
+		{
+			"Name":"french Fries",
+			"Price":2.75
+		},
+		{
+			"Name":"side salad",
+			"Price":3.35
+		},
+		{
+			"Name":"Hot Wings",
+			"Price":3.55
+		},
+		{
+			"Name":"mozzorella sticks",
+			"Price":4.20
+		},
+		{
+			"Name":"Sampler plate",
+			"Price":5.80
+		}
+	]
+}
+
+</code>
 ## Steps for execution of program through command line parameters using command prompt
 <ol>
   <li>Unzip the folder of code (Provided you have downloaded the code in zip format)</li>
