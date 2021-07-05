@@ -7,5 +7,9 @@ The problem given was that given the list of all items and the given target pric
 ## Steps for execution of program through command line parameters using command prompt
 <ol>
   <li>Unzip the folder of code (Provided you have downloaded the code in zip format)</li>
-  <li>Open Command Prompt and change the directory to the current directory using <code> cd current_directory </code></li>
+  <li>Open Command Prompt and change the directory to the current directory using <code> cd current_directory </code> command</li>
+  <ol>
+    <li>Here current_directory means the place where the code is saved</li>
+    <li> *Example code* <code>cd "F:\Python Projects\Parus Holdings"</code>
+  </ol>
 </ol>
