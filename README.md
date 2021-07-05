@@ -15,6 +15,7 @@ The problem given was that given the list of all items and the given target pric
   <li>Run the command <code>python project.py <b>file_name</b></code></li>
   <li>The above code can be written in two formats.
   <ol>
-    <li>By directly mentioning the file in the same directory to read from. <i>For Example</i> <code></code></li>
+    <li>By directly mentioning the file in the same directory to read from. <i>For Example</i> <code>python project.py input.json</code></li>
+    <li> By directly mentioning the file path to read from <i>For Example</i> <code>python project.py "F:\Python Projects\Parus Holdings\input.json"</code></li>
   </ol>
 </ol>
